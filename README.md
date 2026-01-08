@@ -36,8 +36,7 @@ B. Item Service
                     Item Service
 | Method | Endpoint       | Deskripsi                 |
 | ------ | -------------- | ------------------------- |
-| GET    | /api/items     | Ambil semua item          |
-| GET    | /api/items/:id | Ambil item berdasarkan ID |
+| GET    | /api/items     | Ambil semua item          | 
 | POST   | /api/items     | Tambah item               |
 | PUT    | /api/items/:id | Update item               |
 | DELETE | /api/items/:id | Hapus item                |
