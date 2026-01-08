@@ -7,7 +7,7 @@ Setiap service berjalan secara independen dan memiliki database masing-masing.
 Komunikasi antar service dilakukan menggunakan REST API berbasis JSON.
 
 ## 2. Diagram Arsitektur Microservice
-
+ada apa folder Dokumentasi Pengerjaan.pdf
 ## 3. Penjelasan Setiap Service
 A. Category Service
 - Mengelola data kategori
@@ -47,3 +47,4 @@ npm install
 npm run dev
 
 ## 6. Screenshot hasil pengujian
+ada apa folder Dokumentasi Pengerjaan.pdf
